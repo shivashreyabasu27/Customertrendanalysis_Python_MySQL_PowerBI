@@ -1,11 +1,12 @@
-📊 Customer Behavior Analysis Project
+##📊 Customer Behavior Analysis Project
 📌 Project Overview
 This project demonstrates an end‑to‑end data analytics workflow, starting from raw data extraction to business intelligence reporting. The goal was to analyze customer behavior and understand subscription patterns across demographics such as age and gender.
 
 ## 📊 Power BI Dashboard
 Here’s a snapshot of the interactive dashboard built in Power BI:
 
-![Customer_Trend_Analysis]()
+![Customer_Trend_Analysis](![Customer Trend Dashboard](PowerBI/Screenshot%202026-01-09%20030426.png)
+)
 
 🛠 Tools & Technologies
 Python (Pandas) → Extracted data from a GitHub CSV URL, cleaned and transformed datasets.
