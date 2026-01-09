@@ -1,5 +1,6 @@
-##📊 Customer Behavior Analysis Project
-📌 Project Overview
+# 📊 Customer Behavior Analysis Project - Python -> MySQL -> Power BI
+
+## 📌 Project Overview
 This project demonstrates an end‑to‑end data analytics workflow, starting from raw data extraction to business intelligence reporting. The goal was to analyze customer behavior and understand subscription patterns across demographics such as age and gender.
 
 ## 📊 Power BI Dashboard
@@ -8,14 +9,26 @@ Here’s a snapshot of the interactive dashboard built in Power BI:
 ![Customer_Trend_Analysis](![Customer Trend Dashboard](PowerBI/Screenshot%202026-01-09%20030426.png)
 )
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 Python (Pandas) → Extracted data from a GitHub CSV URL, cleaned and transformed datasets.
 
 SQLAlchemy + MySQL → Connected Python to MySQL, created tables, and performed exploratory data analysis (EDA) using SQL queries.
 
 Power BI → Imported processed data to build interactive dashboards and visualize customer insights.
+```
+## 📂 Repository Structure
 
-⚙️ Workflow
+Retailstoreanalysis_Python_Snowflake_Powerbi/
+│
+├── data/                # Raw and cleaned datasets
+├── Notebook             # Python ETL and analytics scripts
+├── SQL/                 # MySQL scripts
+├── PowerBI/             # Dashboard screenshots + .pbix file
+└── ReadMe.md            # Project documentation
+
+```
+
+## ⚙️ Workflow
 Data Extraction → Pulled raw CSV data directly from a GitHub URL.
 
 Data Cleaning & Transformation (Python) → Handled missing values, standardized formats, and prepared features.
@@ -26,7 +39,7 @@ Exploratory Data Analysis (SQL) → Queried customer purchase and subscription b
 
 Visualization (Power BI) → Built dashboards to highlight subscription trends by age, gender, and other customer attributes.
 
-📊 Key Insights
+## 📊 Key Insights
 Revenue and sales across age groups.
 
 Gender differences in subscription behavior provide useful segmentation opportunities.
