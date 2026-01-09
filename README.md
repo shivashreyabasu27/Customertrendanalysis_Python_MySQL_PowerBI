@@ -6,8 +6,8 @@ This project demonstrates an end‑to‑end data analytics workflow, starting fr
 ## 📊 Power BI Dashboard
 Here’s a snapshot of the interactive dashboard built in Power BI:
 
-![Customer_Trend_Analysis](![Customer Trend Dashboard](PowerBI/Screenshot%202026-01-09%20030426.png)
-)
+![Customer Trend Dashboard](PowerBI/Screenshot%202026-01-09%20030426.png)
+
 
 ## 🛠 Tools & Technologies
 Python (Pandas) → Extracted data from a GitHub CSV URL, cleaned and transformed datasets.
